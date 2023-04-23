@@ -1,0 +1,13 @@
+.container {
+    width: 100%;
+  }
+  
+  #TablaSeriesBody {
+    width: 50%;
+    float: left;
+  }
+  
+  #SerieCard {
+    max-width: 50%;
+    float: left;
+  }
